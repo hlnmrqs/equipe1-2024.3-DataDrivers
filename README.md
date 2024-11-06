@@ -1,17 +1,12 @@
-# <Título do projeto>
+# <DataDrivers>
 
-Insira aqui um resumo do projeto que será construído. Tente apresentar uma justificativa para o projeto. É desejável que também se insira um [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).
+Este projeto tem como objetivo analisar um dataset sobre carros envolvendo o modelo, ano, preço, quilometragem, transmissão, tamanho do motor, fabricante e tipo de combustível. O conjunto de dados foi obtido pelo Kaggle sendo feito a análise exploratória de dados. 
 
 ## Desenvolvedores
- - [Nome do desenvolvedor #1](url-do-github-do-desenvolvedor-#1)
- - [Nome do desenvolvedor #2](url-do-github-do-desenvolvedor-#2)
- - [Nome do desenvolvedor #3](url-do-github-do-desenvolvedor-#3)
- - [Nome do desenvolvedor #4](url-do-github-do-desenvolvedor-#4)
- - ...
+ - [Gisele dos Santos da Silva]([url-do-github-do-desenvolvedor-#1](https://github.com/Giselz))
+ - [Helen Regina Marques Carneiro](url-do-github-do-desenvolvedor-#2)
 
 ---
-
-> **Nota**: todo o texto abaixo é somente para entendimento do usuário do template. Por favor remova-o quando for atualizar este `README.md`.
 
 ## Funcionalidades
 
