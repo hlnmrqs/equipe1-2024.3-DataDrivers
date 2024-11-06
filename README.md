@@ -1,9 +1,9 @@
-# <DataDrivers>
+#  DataDrivers
 
 Este projeto tem como objetivo analisar um dataset sobre carros envolvendo o modelo, ano, preço, quilometragem, transmissão, tamanho do motor, fabricante e tipo de combustível. O conjunto de dados foi obtido pelo Kaggle sendo feito a análise exploratória de dados. 
 
 ## Desenvolvedores
- - [Gisele dos Santos da Silva]([url-do-github-do-desenvolvedor-#1](https://github.com/Giselz))
+ - [Gisele dos Santos da Silva](https://github.com/Giselz)
  - [Helen Regina Marques Carneiro](url-do-github-do-desenvolvedor-#2)
 
 ---
