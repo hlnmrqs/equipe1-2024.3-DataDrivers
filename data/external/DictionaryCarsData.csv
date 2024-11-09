@@ -1,0 +1,11 @@
+Variável,Descrição
+Model,O modelo do carro
+Year,O ano de fabricação do carro
+Price,O preço do carro
+Transmission,O tipo de transmissão usado no carro
+Mileage,A quilometragem do carro
+FuelType,O tipo de combustível usado pelo carro
+Tax,A taxa de imposto aplicável ao automóvel
+MPG,A eficiência de milhas por galão do carro
+EngineSize,O tamanho do motor do carro
+Manufacturer,O fabricante do carro
